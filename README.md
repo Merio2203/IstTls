@@ -1,1 +1,1 @@
-{"version": "1.0.0", "downlaod": "ya.ru/123"}
+{"version": "1.0.0", "downlaod": "http://google.com"}
